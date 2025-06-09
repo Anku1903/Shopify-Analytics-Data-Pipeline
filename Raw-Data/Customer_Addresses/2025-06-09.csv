@@ -1,0 +1,12 @@
+Customer_Address_Id,Customer_Id,Default,Address1,Address2,City,Company,First_Name,Last_Name,Phone,Province,Country,Zip,Name,Province_Code,Country_Code,Country_Name
+8698226999389,7472542220381,True,"105 Victoria St",,"Toronto","Company Name","Russell","Winfield",,,"Canada","M5C1N7","Russell Winfield",,"CA","Canada"
+8698238009437,7472552738909,True,"5758 A, Street",,"Hyeres",,"Garth","Short","+41338859506",,"Switzerland","82995","Garth Short",,"CH","Switzerland"
+8698238042205,7472552771677,True,"923 Ligula. St.",,"Herne",,"Chancellor","Huber","+243825003718",,"Congo, The Democratic Republic Of The","N725KO","Chancellor Huber",,"CD","Congo, The Democratic Republic Of The"
+8698238074973,7472552804445,True,"P.O. Box 712, 4930 Adipiscing, Rd.",,"Hartford",,"Trevor","Clemons","+262269608792",,"Mayotte","301052","Trevor Clemons",,"YT","Mayotte"
+8698238107741,7472552837213,True,"640-1995 Ut Rd.",,"Salem",,"Xanthus","Downs","+243825125401",,"Congo, The Democratic Republic Of The","529515","Xanthus Downs",,"CD","Congo, The Democratic Republic Of The"
+8698238140509,7472552869981,True,"Ap #332-1748 Enim Rd.",,"Oklahoma City",,"Aaron","Hooper","+221339511205",,"Senegal","4378","Aaron Hooper",,"SN","Senegal"
+8698238173277,7472552902749,True,"Ap #417-5876 Mus. St.",,"Neuruppin",,"Chadwick","Medina","+92515766120",,"Pakistan","82623","Chadwick Medina",,"PK","Pakistan"
+8698238206045,7472552935517,True,"470-8311 Sed Rd.",,"Little Rock",,"Henry","Cardenas","+261340741879",,"Madagascar","13941","Henry Cardenas",,"MG","Madagascar"
+8698238238813,7472552968285,True,"3884 Purus Street",,"Phoenix",,"Hedley","Ewing","+67724127",,"Solomon Islands","3998","Hedley Ewing",,"SB","Solomon Islands"
+8698238271581,7472553001053,True,"Ap #147-5705 Nonummy Street",,"Maubeuge",,"Steven","Porter","+2911128657",,"Eritrea","7759","Steven Porter",,"ER","Eritrea"
+8698238304349,7472553033821,True,"447-1605 Eget Road",,"Frankston",,"Robert","Dean","+11632190468",,"Jordan","78682","Robert Dean",,"JO","Jordan"

@@ -1,0 +1,12 @@
+Product_Metafield_Id,Product_Id,Admin_Graphql_Api_Id,Created_At,Description,Metafield_Key,Namespace,Owner_Id,Owner_Resource,Value,Value_Type,Updated_At
+28268300763229,7827142312029,"gid://shopify/Metafield/28268300763229",2025-01-24 08:55:09.0000000,,"snowboard_length","test_data",7827142312029,"product","{\"value\":159.0,\"unit\":\"cm\"}",,2025-01-24 08:55:09.0000000
+28268300435549,7827141918813,"gid://shopify/Metafield/28268300435549",2025-01-24 08:55:08.0000000,"the weight of the snowboard","snowboard_weight","test_data",7827141918813,"product","{\"value\":8.0,\"unit\":\"lb\"}",,2025-01-24 08:55:08.0000000
+28268300468317,7827141918813,"gid://shopify/Metafield/28268300468317",2025-01-24 08:55:08.0000000,,"title_tag","global",7827141918813,"product","Hidden Snowboard",,2025-01-24 08:55:08.0000000
+28268300501085,7827141918813,"gid://shopify/Metafield/28268300501085",2025-01-24 08:55:08.0000000,,"description_tag","global",7827141918813,"product","hidden snowboard winter sport snowboarding",,2025-01-24 08:55:08.0000000
+28268300370013,7827142049885,"gid://shopify/Metafield/28268300370013",2025-01-24 08:55:08.0000000,,"title_tag","global",7827142049885,"product","Complete Snowboard",,2025-01-24 08:55:08.0000000
+28268300402781,7827142049885,"gid://shopify/Metafield/28268300402781",2025-01-24 08:55:08.0000000,,"description_tag","global",7827142049885,"product","snowboard winter sport snowboarding",,2025-01-24 08:55:08.0000000
+28268300533853,7827142049885,"gid://shopify/Metafield/28268300533853",2025-01-24 08:55:08.0000000,,"snowboard_length","test_data",7827142049885,"product","{\"value\":159.0,\"unit\":\"cm\"}",,2025-01-24 08:55:08.0000000
+28268300566621,7827142049885,"gid://shopify/Metafield/28268300566621",2025-01-24 08:55:08.0000000,,"snowboard_weight","test_data",7827142049885,"product","{\"value\":7.0,\"unit\":\"lb\"}",,2025-01-24 08:55:08.0000000
+28268300664925,7827142180957,"gid://shopify/Metafield/28268300664925",2025-01-24 08:55:09.0000000,,"binding_mount","test_data",7827142180957,"product","Optimistic",,2025-01-24 08:55:09.0000000
+28268300697693,7827142213725,"gid://shopify/Metafield/28268300697693",2025-01-24 08:55:09.0000000,,"binding_mount","test_data",7827142213725,"product","Optimistic",,2025-01-24 08:55:09.0000000
+28268300632157,7827141951581,"gid://shopify/Metafield/28268300632157",2025-01-24 08:55:09.0000000,,"binding_mount","test_data",7827141951581,"product","Optimistic",,2025-01-24 08:55:09.0000000
